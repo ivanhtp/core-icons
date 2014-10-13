@@ -1,0 +1,7 @@
+{
+  "name": "core-icons#gh-pages",
+  "private": true,
+  "dependencies": {
+    "core-icons": "Polymer/core-icons#master"
+  }
+}
